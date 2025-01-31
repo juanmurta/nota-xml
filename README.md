@@ -1,4 +1,4 @@
-# 💻 xml-to-excel-converter
+# 💻 Ler xml de notas fiscais
 
 # 📕 Descrição
 Este projeto consiste em um script Python para extrair informações de arquivos XML de notas fiscais (modelo 55 e notas de serviço) e convertê-las em uma tabela Excel. Ele utiliza as bibliotecas xmltodict, pandas, e openpyxl para manipulação de dados e exportação. O script identifica automaticamente os arquivos XML na pasta especificada, processa as informações relevantes, como valores totais, CNPJ/CPF, nomes das partes envolvidas, e detalhes dos produtos ou serviços, e gera uma planilha Excel consolidada.
